@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 use Yii;
 use yii\helpers\Html;

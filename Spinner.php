@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * A widget that wraps the spin.js - an animated CSS3 loading spinner

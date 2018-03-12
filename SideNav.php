@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * A custom extended side navigation menu extending Yii Menu

@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * ColorInput widget is an enhanced widget encapsulating the HTML 5 color input.

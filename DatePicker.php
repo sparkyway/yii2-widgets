@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * DatePicker widget is a Yii2 wrapper for the Bootstrap DatePicker plugin. The

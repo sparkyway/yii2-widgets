@@ -5,7 +5,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * Alert block widget that groups multiple `\kartik\widget\Alert` or `kartik\widget\Growl` widgets as one single block.

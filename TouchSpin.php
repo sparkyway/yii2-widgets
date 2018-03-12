@@ -6,7 +6,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * TouchSpin widget is a Yii2 wrapper for the bootstrap-touchspin plugin by

@@ -5,7 +5,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * Widget that wraps the Bootstrap Growl plugin by remabledesigns.

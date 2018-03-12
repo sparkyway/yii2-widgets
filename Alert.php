@@ -5,7 +5,7 @@
  * @version 3.4.1
  */
 
-namespace kartik\widgets;
+namespace nfacha\widgets;
 
 /**
  * Extends the \yii\bootstrap\Alert widget with additional styling and auto fade out options.
