@@ -21,7 +21,7 @@
         "kartik-v/yii2-widget-datepicker": "*",
         "kartik-v/yii2-widget-datetimepicker": "*",
         "kartik-v/yii2-widget-depdrop": "*",
-        "nfacha/yii2-widget-fileinput": "*",
+        "nfacha/yii2-widget-fileinput": "master",
         "kartik-v/yii2-widget-growl": "*",
         "kartik-v/yii2-widget-rangeinput": "*",
         "kartik-v/yii2-widget-rating": "*",
